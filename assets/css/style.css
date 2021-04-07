@@ -1,0 +1,10 @@
+// navbar edit post
+.edit-post-fullscreen-mode-close.has-icon > svg{
+    display:none;
+    // content: url(https://d33wubrfki0l68.cloudfront.net/89d21e1f2a17001aa475773cbb3e47639494d4c9/475b1/img/logo.svg)!important;
+}
+.edit-post-fullscreen-mode-close.has-icon{
+    // display:none;
+    content: url(https://d33wubrfki0l68.cloudfront.net/89d21e1f2a17001aa475773cbb3e47639494d4c9/475b1/img/logo.svg)!important;
+    background: grey;
+}
